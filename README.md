@@ -58,3 +58,9 @@ PRs will be reviewed and merged only by @asghar4415.
 Please ensure commits are meaningful and descriptive.
 
 
+
+
+---
+
+## License
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
