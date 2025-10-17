@@ -28,7 +28,6 @@ VITE_API_BASE_URL=http://localhost:5000/api
 VITE_AI_BASE_URL=http://localhost:8000
 
 ### Start the development server
-```bash
 npm run dev
 
 ## Collaboration Workflow
@@ -50,4 +49,12 @@ git push origin feature-<your-feature-name>
 
 # 5. Open a Pull Request on GitHub
 # Assign @asghar4415 as the reviewer
+
+---
+
+### Notes
+Direct pushes to main are not allowed — all changes must go through pull requests.
+PRs will be reviewed and merged only by @asghar4415.
+Please ensure commits are meaningful and descriptive.
+
 
