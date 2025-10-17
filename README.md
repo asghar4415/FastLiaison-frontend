@@ -29,10 +29,12 @@ VITE_AI_BASE_URL=http://localhost:8000
 
 ### Start the development server
 npm run dev
+```
 
 ## Collaboration Workflow
 All contributors must follow this branching and PR process:
 
+```bash
 # 1. Clone the repository
 git clone https://github.com/asghar4415/FastLiaison-frontend.git
 cd FastLiaison-frontend
@@ -56,8 +58,6 @@ git push origin feature-<your-feature-name>
 Direct pushes to main are not allowed — all changes must go through pull requests.
 PRs will be reviewed and merged only by @asghar4415.
 Please ensure commits are meaningful and descriptive.
-
-
 
 
 ---
